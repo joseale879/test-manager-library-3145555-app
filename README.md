@@ -48,3 +48,9 @@ No hay prórroga: suban avances parciales con commits pequeños durante la prueb
 | [`test-manager-library-3145555-page`](https://github.com/code-sena/test-manager-library-3145555-page) | Sitio público estático de presentación |
 | [`test-manager-library-3145555-infra`](https://github.com/code-sena/test-manager-library-3145555-infra) | Contenedores, red, volúmenes y motor de base de datos vacío |
 | [`test-manager-library-3145555-tool`](https://github.com/code-sena/test-manager-library-3145555-tool) | Utilidades: sembrador de datos de demostración |
+
+## Alcance de T-22 — Interfaz de operación
+
+La aplicación React cubrirá el inicio de sesión, catálogo, socios, registro de préstamos, devoluciones, vencidos y reporte, conforme a las historias y al contrato de `docs`.
+
+La tarea depende de T-16: las rutas, respuestas y permisos de la API deben estar implementados antes de completar la integración de punta a punta. Esta nota registra el orden de trabajo; no agrega funciones ni sustituye la especificación.
